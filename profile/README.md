@@ -1,6 +1,5 @@
-Unlock the full potential of your code and data with GenAI.
- 
-TurinTech AI is the leader in code optimisation for machine learning and data-heavy applications. We utilise our proprietary optimisation algorithms and LLMs to speed up the time-to-production for your ML projects and applications, cutting computational costs and minimising carbon emissions.
+Get more from systems you already run.
+Improve performance across the models, agents, and code you already run while reducing infrastructure costs. TurinTech' Artemis explores multiple optimization strategies in parallel, tests them on your workload, and delivers only what is measurably better.
  
 Learn more about [TurinTech](https://turintech.ai/) 
 
